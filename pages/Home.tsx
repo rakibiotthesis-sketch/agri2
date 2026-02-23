@@ -5,7 +5,7 @@ import CommentSection from '../components/CommentSection';
 interface HomeProps {
   onGetStarted: () => void;
 }
-const att: React.FC<HomeProps>;
+
 const Home: React.FC<HomeProps> = ({ onGetStarted }) => {
   const [deferredPrompt, setDeferredPrompt] = useState<any>(null);
   const [showInstallModal, setShowInstallModal] = useState(false);
