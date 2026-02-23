@@ -19,7 +19,7 @@ const FeaturesPublic: React.FC<{ onNavigate: (tab: string) => void }> = ({ onNav
       title: "Crop Suitability AI",
       desc: "Using the Gemini-3 engine, we correlate historical soil data with genetic cultivar requirements to recommend the highest-yielding crop for your specific location.",
       icon: "fa-robot",
-      image: "https://images.unsplash.com/photo-1595841696677-54897f28bc12?q=80&w=800&auto=format&fit=crop"
+      image: "https://lh7-rt.googleusercontent.com/docsz/AD_4nXe5vOs0OivlTumdkiC5pCFqdDYClYXms16y3iLuI5llXlrH7pRwZZMVI4Ro8pahkNViRc0ofsFQxz_E-LVpGF3mTk-4SWId01OoD3hZQ7w4v1OVyE3igBq-_QhotLFe4-xLhvkMUQ?key=bSbd_Yrx5hrnf4WB_dr359-D"
     }
   ];
 
